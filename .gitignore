@@ -1,0 +1,26 @@
+# Visual Studio temporary files
+*.suo
+*.user
+*.tmp
+*.db*
+*.suo.cache
+*.userresponses
+**/obj/**
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build outputs
+**/bin/**
+**/obj/**
+
+# VS Code
+.vscode/*
+
+# Packages
+**/packages/**
+
+# Local application data
+*.local
