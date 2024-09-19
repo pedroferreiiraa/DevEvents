@@ -21,6 +21,6 @@
 
 # Packages
 **/packages/**
-
+appsettings.json
 # Local application data
 *.local
