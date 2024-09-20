@@ -21,6 +21,10 @@
 
 # Packages
 **/packages/**
-appsettings.json
 # Local application data
 *.local
+
+# Ignorar arquivos e diretórios específicos
+.idea/
+appsettings.json
+appsettings.Development.json
